@@ -1,2 +1,2 @@
 # javatutorial
-UNORIGINAL CODE - Following Java tutorials
+Java practice
