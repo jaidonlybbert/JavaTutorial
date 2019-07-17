@@ -1,2 +1,2 @@
-# javatutorial
-Java practice
+# JavaTutorial
+Exercises from Tutorialspoint.com
